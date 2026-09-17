@@ -1,0 +1,13 @@
+:root {
+  --bg: #08080c;
+  --bg-2: #0e0e14;
+  --panel: #121218;
+  --line: rgba(255,255,255,0.09);
+  --text: #f2f1ec;
+  --muted: #9a99a3;
+  --accent: #c8ff2e;
+  --accent-2: #7c5cff;
+  --font-display: 'Syne', sans-serif;
+  --font-body: 'Space Grotesk', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
